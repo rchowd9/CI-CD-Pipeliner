@@ -27,6 +27,4 @@ This project is optimized for Vercel deployment with automatic builds from GitHu
 - Vite
 - Lucide React Icons
 - GitHub API Integration
-
-Built with [jdoodle.ai](https://jdoodle.ai)
  
